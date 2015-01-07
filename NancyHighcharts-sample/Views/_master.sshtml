@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>@Model.Title</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="../../Scripts/highcharts-2.3.5.js"></script>
+    
+    @Section['Scripts'];
+</head>
+<body>
+    <div id='container'></div>
+	<h1>@Model.H1</h1>
+	<p>現在時刻 - @Model.CurrentDatetime</p>
+</body>
+</html>
