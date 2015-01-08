@@ -1,5 +1,5 @@
 @Master['_master.sshtml']
 
 @Section['Scripts']
-	<script src="../../Scripts/jsonp.js"></script>
+    <script src="../../Scripts/jsonp.js"></script>
 @EndSection

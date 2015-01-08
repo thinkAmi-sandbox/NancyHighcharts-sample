@@ -85,6 +85,9 @@
     <Content Include="Scripts\highcharts-2.3.5.js">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Scripts\highcharts-4.0.4.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Scripts\json.js">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

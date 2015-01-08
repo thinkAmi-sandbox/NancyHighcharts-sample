@@ -1,10 +1,3 @@
-Highcharts.setOptions({
-    global: {
-        useUTC: false
-    }
-});
-
-
 $(function () {
     var chart = new Highcharts.Chart({
         chart: {
