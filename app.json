@@ -1,0 +1,6 @@
+{
+"name": "NancyHighcharts-sample",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/friism/heroku-buildpack-mono"
+  }
+}

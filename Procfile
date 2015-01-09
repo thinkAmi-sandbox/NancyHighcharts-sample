@@ -1,0 +1,1 @@
+web: mono NancyHighcharts-sample.exe $PORT
